@@ -22,6 +22,22 @@ The system uses **Roboflow AI** to automatically classify waste types through th
 
 ---
 
+🚀 Live Demo
+
+Citizen App (Flutter)
+
+🔗 https://appetize.io/app/b_kzda4v4gp5lws7xesndomvbljm
+
+Admin Dashboard
+
+🔗 https://gone-admin.vercel.app
+
+Backend API
+
+🔗 https://gonebackend-production.up.railway.app
+
+---
+
 ## 🏗️ Repository Structure
 
 This project is organized as a **polyrepo** — each component lives in its own repository:
