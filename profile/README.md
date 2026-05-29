@@ -26,7 +26,7 @@ The system uses **Roboflow AI** to automatically classify waste types through th
 
 Citizen App (Flutter)
 
-🔗 https://appetize.io/app/b_kzda4v4gp5lws7xesndomvbljm
+🔗 https://appetize.io/app/b_tmudra5u7uhtscvsgzt7y3mesq
 
 Admin Dashboard
 
