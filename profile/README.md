@@ -32,9 +32,9 @@ Admin Dashboard
 
 🔗 https://gone-admin.vercel.app
 
-Backend API
+Backend API (Spring Boot REST API)
 
-🔗 https://gonebackend-production.up.railway.app
+BaseUrl : 🔗 https://gonebackend-production.up.railway.app
 
 ---
 
