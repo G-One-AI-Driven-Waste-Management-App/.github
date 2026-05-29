@@ -22,17 +22,22 @@ The system uses **Roboflow AI** to automatically classify waste types through th
 
 ---
 
-🚀 Live Demo
+### 🚀 Live Demo
 
-Citizen App (Flutter)
+### Citizen App (Flutter)
+
+APK Download
+
+🔗 https://github.com/G-One-AI-Driven-Waste-Management-App/G.One_Citizen-App/releases/download/v1.0.0/app-release.apk
+
+Live Demo
 
 🔗 https://appetize.io/app/b_tmudra5u7uhtscvsgzt7y3mesq
 
-Admin Dashboard
-
+### Admin Dashboard
 🔗 https://gone-admin.vercel.app
 
-Backend API (Spring Boot REST API)
+### Backend API (Spring Boot REST API)
 
 BaseUrl : 🔗 https://gonebackend-production.up.railway.app
 
